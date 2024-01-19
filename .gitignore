@@ -162,4 +162,4 @@ cython_debug/
 **./images
 **./models
 **/datasets/
-**/output
+**/output/
